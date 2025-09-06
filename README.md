@@ -1,14 +1,15 @@
-## Hi 👋
-My name is Luohaosen
+## Hi there 👋
 
-- Genetic Testing data process and service, Web front-end development
-- Linux, Python3, vue3, Typescript
+| Dimension   | Information                                                         |
+| ----------- | ------------------------------------------------------------------- |
+| 🔭 Job      | Genetic Testing data process and service, Web front-end development |
+| 🌱 Target   | Web and Bioinfo Full-stack development                              |
+| 😄 Interest | Role Play Game, such as Soul-Like or Interactive film game          |
 
-🔭 **Occupation**: Bioinformatics analysis engineer
-
-🌱 **Target**: Web and Bioinfo Full-stack development
-
-😄 **Interest**: Role Play Game, such as Soul-Like or Interactive film game
+✨ Skill
+  - back-end: Python3
+  - front-end: vue3, Typescript
+✨ Learning：Web Python
 
 <!--
 **Luosanmu/Luosanmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
