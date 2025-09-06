@@ -9,6 +9,7 @@
 ✨ Skill
   - back-end: Python3
   - front-end: vue3, Typescript
+
 ✨ Learning：Web Python
 
 <!--
