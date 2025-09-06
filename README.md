@@ -1,10 +1,10 @@
 ## Hi 👋
-My name is Luohaosen, from China
+My name is Luohaosen
 
-- 😄 **Job**: Genetic Testing data process and service, Web front-end development
 - 🔭 **Current Occupation**: Bioinformatics analysis engineer
-- 🌱 **Target Direction**: Web and Bioinfo Full-stack development
+- 😄 **Job**: Genetic Testing data process and service, Web front-end development
 - 📫 **Skill**: Linux, Python3, vue3, Typescript
+- 🌱 **Target Direction**: Web and Bioinfo Full-stack development
 - ⚡ **Interest**: Role Play Game, such as Soul-Like or Interactive film game
 
 <!--
