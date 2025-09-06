@@ -8,7 +8,7 @@
 | ✨ Skill    | Python3                                                             |
 |             | vue3                                                                |
 |             | Typescript                                                          |
-| Learning    | Web Python                                                          |
+| 🤔 Learning | Web Python                                                          |
 
 <!--
 **Luosanmu/Luosanmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
