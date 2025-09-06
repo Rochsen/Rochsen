@@ -5,8 +5,8 @@
 | 🔭 Job      | Genetic Testing data process and service, Web front-end development |
 | 🌱 Target   | Web and Bioinfo Full-stack development                              |
 | 😄 Interest | Role Play Game, such as Soul-Like or Interactive film game          |
-| ✨ Back-end Skill    | Python3                                                    |
-| ✨ Front-end Skill   | vue3, Typescript                                           |
+| ✨ Skill of Back-end    | Python3                                                    |
+| ✨ Skill of Front-end   | vue3, Typescript                                           |
 | 🤔 Learning | Web Python                                                          |
 
 <!--
