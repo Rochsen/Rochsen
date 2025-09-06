@@ -6,8 +6,7 @@
 | 🌱 Target   | Web and Bioinfo Full-stack development                              |
 | 😄 Interest | Role Play Game, such as Soul-Like or Interactive film game          |
 | ✨ Skill    | Python3                                                             |
-|             | vue3                                                                |
-|             | Typescript                                                          |
+|             | vue3   | Typescript                                                          |
 | 🤔 Learning | Web Python                                                          |
 
 <!--
