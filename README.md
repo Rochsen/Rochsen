@@ -9,7 +9,7 @@
 | ✨ Skill of Front-end   | vue3, Typescript                                           |
 | 🤔 Learning | Web Python                                                          |
 
-[Rochsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rochsen)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 
 <!--
