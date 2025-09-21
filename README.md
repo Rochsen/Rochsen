@@ -1,11 +1,8 @@
 ## Hi there 👋
-🔭 Job：Genetic Testing data process and service, Web front-end development
-
-🌱 Target：Web and Bioinfo Full-stack development
-
-😄 Interest：Role Play Game, such as Soul-Like or Interactive film game
-
-🤔 Learning：Web Python
+🔭 Job：Genetic Testing data process and service, Web front-end development<br/>
+🌱 Target：Web and Bioinfo Full-stack development<br/>
+😄 Interest：Role Play Game, such as Soul-Like or Interactive film game<br/>
+🤔 Learning：Web Python<br/>
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
