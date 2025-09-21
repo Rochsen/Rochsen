@@ -10,6 +10,7 @@
 | 🤔 Learning | Web Python                                                          |
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rochsen)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochsen&stats_format=percentages)
 
 <!--
