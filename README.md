@@ -6,6 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,vue,ts,html,css)](https://skillicons.dev)
 
+[![My Tools](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rochsen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochsen&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
