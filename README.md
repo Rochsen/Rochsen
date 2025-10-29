@@ -7,7 +7,7 @@
 | Issues | Icons|
 |---|---|
 | MY Skills |[![My Skills](https://skillicons.dev/icons?i=python,vue,ts,html)](https://skillicons.dev)|
-| MY Recommended |[![My Tools](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)|
+| MY Recommended |[![My Tools](https://skillicons.dev/icons?i=obsidian)](https://github.com/obsidianmd/obsidian-releases)|
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rochsen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochsen&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
