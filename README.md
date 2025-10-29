@@ -4,7 +4,7 @@
 😄 Interest：Role Play Game, such as Soul-Like or Interactive film game<br/>
 🤔 Learning：Web Python<br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,vue,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vue,ts,html)](https://skillicons.dev)
 
 [![My Tools](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev)
 
