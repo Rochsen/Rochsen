@@ -9,9 +9,12 @@
 | MY Skills |[![My Skills](https://skillicons.dev/icons?i=python,vue,ts,html)](https://skillicons.dev)|
 | MY Recommended |[![My Tools](https://skillicons.dev/icons?i=obsidian)](https://github.com/obsidianmd/obsidian-releases)|
 
-| ![Rochsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rochsen&show_icons=true&bg_color=00000000) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochsen&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Rochsen" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rochsen&layout=compact&langs_count=8&card_width=320" />
+</a>
 <!--
 **Luosanmu/Luosanmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
