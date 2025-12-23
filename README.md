@@ -4,10 +4,18 @@
 😄 Interest：Role Play Game, such as Soul-Like or Interactive film game<br/>
 🤔 Learning：Web Python<br/>
 
-| Issues | Icons|
-|---|---|
-| MY Skills |[![My Skills](https://skillicons.dev/icons?i=python,vue,ts,html)](https://skillicons.dev)|
-| MY Recommended |[![My Tools](https://skillicons.dev/icons?i=obsidian)](https://github.com/obsidianmd/obsidian-releases)|
+
+Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,python,pytorch,vue,ts,html,markdown)](https://skillicons.dev)
+
+Unfamiliar
+
+[![My DisAdvantages](https://skillicons.dev/icons?i=css,tailwindcss,pinia,fastapi,java,c,perl,r,docker,mysql,js,nginx,nodejs,ps,pr)](https://skillicons.dev)
+
+Recommended 
+
+[![My Tools](https://skillicons.dev/icons?i=obsidian,notion,anaconda,uv,vim,vscode,pycharm)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Rochsen" />
