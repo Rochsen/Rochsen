@@ -15,8 +15,9 @@ Unfamiliar
 
 Recommended 
 
-[![My Tools](https://skillicons.dev/icons?i=obsidian,notion,anaconda,uv,atom,vim,vscode,pycharm)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=obsidian,notion,anaconda,atom,vim,vscode,pycharm)](https://skillicons.dev)
 
+Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Rochsen" />
