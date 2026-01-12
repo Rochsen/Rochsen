@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 Job：Genetic Testing data process and service, Web front-end development<br/>
+🔭 Job：Genetic Testing data process and service(python), Web front-end development<br/>
 🌱 Target：Web and Bioinfo Full-stack development<br/>
 😄 Interest：Role Play Game, such as Soul-Like or Interactive film game<br/>
 🤔 Learning：Web Python<br/>
