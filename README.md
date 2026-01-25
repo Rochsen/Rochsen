@@ -1,6 +1,6 @@
 ## Hi there 👋
 🔭 Job：Genetic Testing data process and service(python), Web front-end development (Waiting for Work)<br/>
-🌱 Target：Bioinfo Full-stack development, or AI application enginner<br/>
+🌱 Target：Bioinfo Full-stack development, or AI application engineer<br/>
 😄 Interest：Role Play Game, such as Soul-Like or Interactive film game<br/>
 
 Skills
