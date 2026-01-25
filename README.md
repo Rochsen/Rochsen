@@ -20,8 +20,11 @@ Recommended
 Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Rochsen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rochsen" />
 </a>
+
+<br/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rochsen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rochsen" />
 </a>
